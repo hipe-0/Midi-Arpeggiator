@@ -12,6 +12,10 @@ Photo of the Full Assembly:
 
 ![full assembly](Media/fullAssemblySmall.jpg)
 
+Full schematic of the main panel: May look complex at first :-) but it's fool proof. My 10 years old daughter can play it!
+
+![full assembly](Media/MainPanel.png)
+
 
 + USB midi controler
 + The design is by me. 
