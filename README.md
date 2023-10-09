@@ -12,7 +12,7 @@ Photo of the Full Assembly:
 
 ![full assembly](Media/fullAssemblySmall.jpg)
 
-Full schematic of the main panel: May look complex at first :-) but it's fool proof. My 10 years old daughter can play it!
+Full schematic of the main panel: May look complex at first :-) but it's fool proof. My 10 years old daughter can play it! In theory you should use the big buttons more often than the small ones.
 
 ![full assembly](Media/MainPanel.png)
 
@@ -115,7 +115,7 @@ Parts required:
 Hoping you'll like it. Please leave a comment on what you think or believe should be improved.
 https://www.reddit.com/r/ArduinoProjects/comments/171mva3/new_arduino_based_midi_arpeggiator_3d_printed/
 
-License: CC BY-NC
+License: CC BY-NC, see https://creativecommons.org/licenses/by-nc/4.0/
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
 
  BY: credit must be given to the creator.
