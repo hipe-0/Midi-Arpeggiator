@@ -82,6 +82,8 @@ Arduino pins:
 +  button for chord VI is in serie with 2.2K Ohm resistor
 +  button for chord VII is in serie with 10K Ohm resistor
 
+All note buttons are connected to GND
+
 all pots connected to pin AREF and GND
 + pin 2 is connected to button note 1 
 + pin 3 is connected to button note 2
