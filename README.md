@@ -85,5 +85,7 @@ all pots connected to pin AREF and GND
 + pin 12 in connected to record button
 
 
+Hoping you'll like it. Please leave a comment on what you think or believe should be improved.
+https://www.reddit.com/r/ArduinoProjects/comments/171mva3/new_arduino_based_midi_arpeggiator_3d_printed/
 
 Hippolyte
