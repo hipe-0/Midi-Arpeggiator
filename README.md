@@ -6,7 +6,7 @@ Demo here https://www.youtube.com/watch?v=DeB5YvRfC6c
 
 Full Assembly:
 
-![full assembly](fullAssemblySmall.jpg)
+![full assembly](Media/fullAssemblySmall.jpg)
 
 + USB midi controler
 + The design is by me. 
