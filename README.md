@@ -93,6 +93,24 @@ all pots connected to pin AREF and GND
 + pin 11 is connected to button "bass" note
 + pin 12 in connected to record button
 
+Dimensions: roughly 250 x 185 x 65
+
+Parts required:
++ Arduino Micro
++ 1m USB cable that connects USB A to USB micro
++ 8 large arcade buttons
++ 8 small arcade buttons
++ wire
++ 0.22 uF capacitor
++ 6x resistors R = 100, 320, 560, 1K, 2.2K and 10K
++ 1x resistor for the led R= 1K
++ PETG filament for 3D printer (PLA should do fine too)
++ 3D printer with heated bed and large >=250 cm print area
++ super glue, to bond the plate and the side wall
++ prototype board 70x90
++ 2x M3 screws
++ 3 potentiometers 10K
++ soldering iron
 
 Hoping you'll like it. Please leave a comment on what you think or believe should be improved.
 https://www.reddit.com/r/ArduinoProjects/comments/171mva3/new_arduino_based_midi_arpeggiator_3d_printed/
