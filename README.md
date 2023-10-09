@@ -118,6 +118,9 @@ Parts required:
 Hoping you'll like it. Please leave a comment on what you think or believe should be improved.
 https://www.reddit.com/r/ArduinoProjects/comments/171mva3/new_arduino_based_midi_arpeggiator_3d_printed/
 
+3D models STL files are also on Thingiverse : 
+https://www.thingiverse.com/thing:6257589
+
 License: CC BY-NC, see https://creativecommons.org/licenses/by-nc/4.0/
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
 
