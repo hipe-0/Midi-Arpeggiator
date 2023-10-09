@@ -3,6 +3,9 @@
 Hello to everyone, I share this fun project that makes me very creative musically. It can be used as arpeggiator and I use it as composition tool, to express out ideas.
 Demo here https://www.youtube.com/watch?v=DeB5YvRfC6c
 
+Full Assembly:
+![full assembly](fullAssemblySmall.jpg)
+
 The design is by me. 
 No reference to existing devices. 
 Inspiration from software midi VST like Instachord, Melodicflow, Nora, Chtullu or Captain Chord.
