@@ -1,11 +1,6 @@
-# Midi-Arpeggiator
+# Midi-Arpeggiator: A Creative Tool for Musicians of All Levels
 
-Hello to everyone, My name is Hippolyte Mounier, I'm learning Arduino and electronics.
-I share this fun project that makes me very creative musically. 
-It can be used as arpeggiator and as composition tool.
-Problem solving : It helps me  express out ideas quickly as I'm not a professional composer and can't really play the piano that well.
-This device is meant to be used with desktop softwares called Digital Audio Workstation (DAWs) like Ableton Live, FL studio, Reason and the like.
-It is plug-n-play and connects with a USB cable to the desktop computer. (But it has not enough power to be recognised by my Ipad). I'm surprised that this project turned out acheiving such professional level of usability and robustness so soon (1 week). Good job little arduino micro!
+Hi, I'm Hippolyte Mounier, and I'm learning Arduino and electronics. This fun project has been a great way to unlock my musical creativity. The Midi-Arpeggiator serves as both an arpeggiator and a composition tool, helping me quickly express ideas even though I'm not a professional composer or pianist. Designed for use with DAW software like Ableton Live, FL Studio, and Reason, this plug-and-play device connects via USB to your desktop, offering a seamless experience. Check out the demo and see how this little Arduino project turned out more professional and robust than I ever expected—after just one week of development!
 
 Demo here on Youtube https://www.youtube.com/watch?v=DeB5YvRfC6c
 
