@@ -12,15 +12,16 @@ Full schematic of the main panel: May look complex at first :-) but it's fool pr
 
 ![full assembly](Media/MainPanel.png)
 
-
+# Features 
 + USB midi controler
-+ The design is by me. 
-+ No reference to existing devices. 
++ Original design
++ No reference to existing devices
 + Inspiration from software midi VST like Instachord, Melodicflow, Nora, Chtullu or Captain Chord.
-+ 3D Made with Fusion 360 in 3h. (see files enclosed)
++ 3D Made with Fusion 360. (files on thingiverse, see link below)
 + The body is 3D printed in PETG plastic, in 2 pieces : orange face (6h printing time) and translucent walls (3h printing time) glued together. A plug on the back secures the usb cable. (30 min printing time, in 2 parts)
-+ Buttons are low cost arcade machine buttons from another project
++ Arcade machine buttons
 
+# Usage tricks
 7 buttons on left hand are presets for the chords I, II, III, IV, V, VI and VII of the mode and the root key (choosen via potentiometer below)
 +  Pressing a chord button twice inverts the chord (minor gets major and major gets minor)
 +  Pressing a chord 3 times pushes all notes +1 semitone, to reach out-of-harmony chords and accidentals
@@ -33,6 +34,8 @@ A single record button. Performing :
   2. play (short press), 
   3. overdub (press continuously while playing) 
   4. and stop (short press) 
+
+# Potentiometer action
 
 3x potentiometers for (8x)Mode, (12x)Root Keys and (5x)Octave
 
@@ -47,8 +50,8 @@ A single record button. Performing :
   8. Phrygian Dominant (metal)
 
 12x Root Keys I choose are 
-+    in order of fiths starting with C, then G, D, A, E, B, F#, ...
-+  Goal: being in fifths you can apply most useful tonal changes easily    
++ in order of fiths starting with C, then G, D, A, E, B, F#, ...
++ Goal: being in fifths you can apply most useful tonal changes easily    
 
 5x Octaves I choose are 
     -2, -1, 0, +1, +2
@@ -63,6 +66,12 @@ A single record button. Performing :
 + Latency is in my opinion negligible. At least on my Focusrite scarlett solo ASIO sound card. Some Latency can be seen on midi note editor.
 
 It took me roughly about 12 h to build the prototype from start to finish. (I'm learning !)
+
+# Shematic
+
+![2024-09-23 sketch Arpegiator v1 01_bb](https://github.com/user-attachments/assets/b76ece3a-1a9b-40a6-9de5-e243029f2b9c)
+
+![2024-09-23 sketch Arpegiator v1 01_schéma](https://github.com/user-attachments/assets/3c2d94cd-db30-48ae-b4da-0b9daf8ac942)
 
 Arduino pins:
 + pin A0 connects to mode pot
@@ -93,7 +102,7 @@ all pots connected to pin AREF and GND
 
 Dimensions: roughly 250 x 185 x 65
 
-Parts required:
+# Bill of materials:
 + Arduino Micro
 + 1m USB cable that connects USB A to USB micro
 + 8 large arcade buttons
@@ -110,13 +119,16 @@ Parts required:
 + 3 potentiometers 10K
 + soldering iron
 
-Hoping you'll like it. Please leave a comment on what you think or believe should be improved.
+# Reddit thread
+
 https://www.reddit.com/r/ArduinoProjects/comments/171mva3/new_arduino_based_midi_arpeggiator_3d_printed/
 
-3D models STL files are also on Thingiverse : 
+# 3D models
+
 https://www.thingiverse.com/thing:6257589
 
-License: CC BY-NC, see https://creativecommons.org/licenses/by-nc/4.0/
+# License:
+CC BY-NC, see https://creativecommons.org/licenses/by-nc/4.0/
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
 
  BY: credit must be given to the creator.
