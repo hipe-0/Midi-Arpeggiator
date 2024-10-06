@@ -69,9 +69,12 @@ It took me roughly about 12 h to build the prototype from start to finish. (I'm 
 
 # Shematic
 
+
 ![2024-09-23 sketch Arpegiator v1 01_bb](https://github.com/user-attachments/assets/b76ece3a-1a9b-40a6-9de5-e243029f2b9c)
 
+
 ![2024-09-23 sketch Arpegiator v1 01_schéma](https://github.com/user-attachments/assets/3c2d94cd-db30-48ae-b4da-0b9daf8ac942)
+
 
 Arduino pins:
 + pin A0 connects to mode pot
